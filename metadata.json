@@ -1,0 +1,6 @@
+{
+  "name": "Profit Calculator",
+  "description": "Simple, fast calculator to calculate actual profit from a sale for small business owners and sellers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
